@@ -1,10 +1,8 @@
-# Codename-Infinite-Space-Builds
+#### Codename Infinite Space is Now:
+# 🌌 **Stellarria: Asteroid Escape** 🚀  
+*A 2.5D endless runner set in deep space*
+---
 
-A 2.5D Infinite Scroller Game made In Unity
+<a href="Stellarria Asteroid Escape V1.0 by TabuuTKS.7z">Download Windows</a>
 
-
-
-<a href="Codename Infinite Space by TabuuTKS v0.1 Windows.zip">Download Windows</a>
-
-<a href="Codename Infinite Space by TabuuTKS v0.1 Android.apk">Download Android</a>
-
+<a href="Stellarria Asteroid Escape V1.0 by TabuuTKS.apk">Download Android</a>
